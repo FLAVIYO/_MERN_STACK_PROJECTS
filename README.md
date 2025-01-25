@@ -4,7 +4,7 @@ Welcome to my collection of mern stack projects! Below is a list of various mern
 
 ## Projects List
 
-**[ Mern Stack](https://github.com/FLAVIYO/Emailed-Jobs-Data-Extraction/tree/main)**  
+**[ Node.js Task Manager Stack](https://github.com/FLAVIYO/node.js_-restful_api/tree/main)**  
 
 ## Technologies Used
 - React
